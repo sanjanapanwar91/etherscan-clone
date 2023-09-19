@@ -2,7 +2,7 @@
 
 # Overview
 
-This README provides an overview an Etherscan-clone, a blockchain explorer for Ethereum. A blockchain explorer allows users to search, view, and analyze transactions, blocks, and other data on the Ethereum blockchain.
+This README provides an overview of an Etherscan-clone, a blockchain explorer for Ethereum. A blockchain explorer allows users to search, view, and analyze transactions, blocks, and other data on the Ethereum blockchain.
 
 # Features
 
