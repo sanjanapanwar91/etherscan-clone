@@ -1,3 +1,7 @@
+## License
+[MIT License](LICENSE)
+
+
 # etherscan-clone
 
 # Overview
